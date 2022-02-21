@@ -32,7 +32,8 @@ Pages to go to
 
 [https://marconi-lab.github.io/tts_examples_page/vits_22k.html](https://marconi-lab.github.io/tts_examples_page/vits_22k.html)
 
-
+## Same Vanilla tacotron2 model at various steps
+[https://marconi-lab.github.io/tts_examples_page/tacotron2_vanilla_steps.html](https://marconi-lab.github.io/tts_examples_page/tacotron2_vanilla_steps.html)
 
 # Model Comparisons
 
