@@ -27,6 +27,7 @@
                 <th>ID</th>
                 <th>Sentence</th>
                 <th>885k Audio</th>
+                <th>610k Audio</th>
               </tr>
         </table>
         <script>
@@ -44,7 +45,7 @@
                 var mainContainer = document.getElementById("myData");
                 for (var i = 0; i < data.length; i++) {
                     var tr = document.createElement("tr");
-                    tr.innerHTML = '<td>' + data[i].id + '</td> <td>' + data[i].sentence + '</td>' + '<td><audio controls="" preload="none"><source src="samples/vits_comp/vits_885k_' + data[i].id + '.wav"></audio></td>'
+                    tr.innerHTML = '<td>' + data[i].id + '</td> <td>' + data[i].sentence + '</td>' + '<td><audio controls="" preload="none"><source src="samples/vits_comp/vits_885k_' + data[i].id + '.wav"></audio></td>' + '<td><audio controls="" preload="none"><source src="samples/vits_comp/vits_610k_' + data[i].id + '.wav"></audio></td>'
                     mainContainer.appendChild(tr);
                 }
             }
