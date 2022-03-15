@@ -39,6 +39,9 @@ Pages to go to
 
 [https://marconi-lab.github.io/tts_examples_page/model_compare.html](https://marconi-lab.github.io/tts_examples_page/model_compare.html)
 
+## Various VITS models
+[https://marconi-lab.github.io/tts_examples_page/vits_22k_comp.html](https://marconi-lab.github.io/tts_examples_page/vits_22k_comp.html)
+
 
 
 
